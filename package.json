@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-agri-commerce-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profvic/Blockchain-agri-commerce-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/profvic/Blockchain-agri-commerce-platform/issues"
+  },
+  "homepage": "https://github.com/profvic/Blockchain-agri-commerce-platform#readme",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.5.0"
+  }
+}
